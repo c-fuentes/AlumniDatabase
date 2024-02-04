@@ -1,0 +1,9 @@
+1. A listing of all donors who have donated with name, graduation date, major, and a total amount, The report will be sorted in descending order of the total donated amount
+
+2. A list of the specified area and year of graduation, each alumnus’s name, e-mail address, the degree earned( eg. BS, MBA, etc.), work phone number, and home phone number, and LinkedIn, who graduates between 2000 and 2020.
+
+3. A list of alumni who work in Norfolk Southern with name, join date, title, and salary range
+
+4. Find all alumni whose expertise in 'Database' and 'Software development'
+
+5. Find all alumni who mentor current CSU student, list alumni's name, student's name
